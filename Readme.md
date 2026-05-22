@@ -1,164 +1,114 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--         ANTECH GREYHAT — GITHUB PROFILE README             -->
-<!-- Paste this into: github.com/Antech-greyhat/Antech-greyhat  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="100%" 
+    style="max-width:100%; height:auto;"
+  />
+</div>
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Antech+%F0%9F%91%8B;Full-Stack+%2B+Security+Developer;Building+for+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Web3+%7C+React+%7C+Cybersecurity)](https://git.io/typing-svg)
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,13,20&height=200&section=header&text=technorant%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20FullStack%20Developer%20|%20System%20Architect&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital;NextJS+%7C+ExpressJS+%7C+TailwindCSS" alt="Typing SVG" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Antech-greyhat&label=Profile+Views&color=534AB7&style=flat" alt="profile views" />
-  
-![](https://img.shields.io/badge/Location-Nairobi%2C_Kenya_🇰🇪-1D9E75?style=flat)
-  
-![](https://img.shields.io/badge/Status-Open_to_Hackathons-D4537E?style=flat)
+### About Me
+
+- Currently building **smart assistants and modern websites** with AI + automation  
+- Exploring **React Native** and **Java**  
+- Project lead at the **[Technorant](https://technorant.co.ke)** – Digital services for a smarter world  
+- Passionate about **no-code tools**, **automation**, and **edtech innovation**  
+- I write clean, scalable, and production-ready code
+
+### Skills & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=appwrite" width="45"/><br>Appwrite</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="45"/><br>Bash</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>Vercel</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify" width="45"/><br>Netlify</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="45"/><br>C</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++</td>
+  </tr>
+</table>
+
+### GitHub Stats
+<div align="center">
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
+      />
+    </a>
+  </div>
+  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=technorant&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=technorant&theme=radical"/>
+</div>
+
+<table>
+<tr>
+<td width="33%">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=technorant&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+</td>
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=technorant&theme=transparent" />
+</td>
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=technorant&theme=transparent&utc_offset=5.5" />
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-> *Building purposeful software from Nairobi — one commit at a time.*
-
-I'm a Year 1 Computer Science student at **Kisii University** with a passion for building tech that solves real problems for Kenyan youth and communities. My work spans full-stack web dev, cybersecurity, and Web3.
-
-- 🔭 Currently building **[MindCare](https://mind-care-96.vercel.app)** — mental wellness for Kenyan youth
-- 🌱 Learning **Solidity · Hardhat · ethers.js** through ProofChain
-- 🛡️ Studying **MITRE ATT&CK · OSINT · Pen Testing · CCNA Networking**
-- 🏆 Hackathon builder — multiple live deployments shipped
-- 💬 Ask me about **React, Node.js, Flask, or Web3**
-
----
-
-## 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+  <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=technorant&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </div>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antech-greyhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antech-greyhat&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Antech-greyhat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img
+    src="https://ghchart.rshah.org/technorant"
+    alt="GitHub Contribution Chart"
+  />
 </div>
 
----
+### Projects
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antech-greyhat&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Projects
-
-### 🧠 MindCare — Mental Wellness Platform
-> Connecting Kenyan youth with mental health resources, reflections & community support.
-
-| | |
-|---|---|
-| **Live** | [mind-care-96.vercel.app](https://mind-care-96.vercel.app) |
-| **Stack** | React · Tailwind CSS · Vercel |
-| **Highlights** | Hackathon submission · Investor pitch deck · Mobile-first |
-
----
-
-### ⛓️ ProofChain — Decentralized Contribution Tracker
-> On-chain verification of contributions. MetaMask auth. Full REST API.
-
-| | |
-|---|---|
-| **Stack** | React · Vite · Node.js · Express · MongoDB · Solidity |
-| **Highlights** | MetaMask wallet auth · Multi-page UI · Axios API |
-
----
-
-### 🎓 EduAble — Inclusive Learning Platform
-> Accessibility-first e-learning, zero backend, fully self-contained.
-
-| | |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · localStorage |
-| **Highlights** | No-backend deployment · WCAG accessibility |
-
----
-
-### 🏠 UniNest Kenya — Student Hostel Booking
-> Helping students across 6 Kenyan universities find accommodation.
-
-| | |
-|---|---|
-| **Stack** | Web Frontend |
-| **Highlights** | 6 universities · Local-impact product |
-
----
-
-## 🎓 Academic Performance
-
-| Course | Grade | Notes |
-|---|---|---|
-| COMP 102 — Discrete Mathematics | **A** | Assignments 1 & 2 completed |
-| Cybersecurity Labs | **A** | MITRE ATT&CK · OSINT · Pen Testing |
-| CCNA Networking | **A** | Subnetting · ARP · DHCP · NAT |
-| MATHS 111 — Calculus | **B+** | Limits · Differentiation · Kinematics |
-| Web Development (Practical) | **A** | 4 live projects deployed |
-| **Overall GPA (Est.)** | **3.8 / 4.0** | Year 1 · Semester II |
-
----
-
-## 🐍 Contribution Snake
+- **[New Testament Church Of God Kenya](https://github.com/.git)** 
+- **[Kenya Contact Form RestFul API](https://github.com/.git)** — Professional photography portfolio with galleries and responsive design  
+- **[Customer Quote Request RestFul API](https://g/ExpressJSCustomerQuoteRequestRestAPI.git)** — Official website of my digital agency  
 
 <div align="center">
-
-![snake animation](https://github.com/Antech-greyhat/Antech-greyhat/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> *To enable the snake: add a GitHub Action in `.github/workflows/snake.yml` — I can generate this for you.*
-
----
-
-## 📈 Activity Graph
-
-[![Antech's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Antech-greyhat&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Antech--greyhat-181717?style=for-the-badge&logo=github)](https://github.com/Antech-greyhat)
-[![MindCare](https://img.shields.io/badge/Live_App-MindCare-534AB7?style=for-the-badge&logo=vercel)](https://mind-care-96.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with purpose from Nairobi 🇰🇪 · <i>"Code that matters"</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
