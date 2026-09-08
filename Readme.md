@@ -102,12 +102,7 @@
     alt="GitHub Contribution Chart"
   />
 </div>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=technorant)](https://github.com/stats-organization/github-stats-extended)
-### Projects
 
-- **[New Testament Church Of God Kenya](https://github.com/.git)** 
-- **[Kenya Contact Form RestFul API](https://github.com/.git)** — Professional photography portfolio with galleries and responsive design  
-- **[Customer Quote Request RestFul API](https://g/ExpressJSCustomerQuoteRequestRestAPI.git)** — Official website of my digital agency  
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
