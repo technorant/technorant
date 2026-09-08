@@ -102,7 +102,7 @@
     alt="GitHub Contribution Chart"
   />
 </div>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=technorant)](https://github.com/stats-organization/github-stats-extended)
 ### Projects
 
 - **[New Testament Church Of God Kenya](https://github.com/.git)** 
