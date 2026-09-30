@@ -14,6 +14,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+the+future+with+code;Helping+brands+go+digital;NextJS+%7C+ExpressJS+%7C+TailwindCSS" alt="Typing SVG" />
 </p>
 
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="380" align-item="center"/>
+
 ### About Me
 
 - Currently building **smart assistants and modern websites** with AI + automation  
